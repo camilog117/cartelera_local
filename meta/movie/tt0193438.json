@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "tt0193438",
+    "type": "movie",
+    "name": "Pura sangre",
+    "poster": "https://image.tmdb.org/t/p/w500/q0LB8qEcntweDmxlH07O9TwNXjP.jpg",
+    "background": "https://image.tmdb.org/t/p/original/2yFFW67S8aoaXyq6GtmFPVzF9q8.jpg",
+    "description": "",
+    "releaseInfo": "1982",
+    "imdbRating": "7",
+    "runtime": "99 min",
+    "genres": [
+      "Crimen",
+      "Terror"
+    ],
+    "cast": [
+      "Florina Lemaitre",
+      "Carlos Mayolo",
+      "Humberto Arango",
+      "Gilberto Forero",
+      "Luis Alberto García",
+      "Patricia Bonilla",
+      "Alvaro Gutiérrez",
+      "Rita Escobar"
+    ],
+    "director": [
+      "Luis Ospina"
+    ],
+    "writer": [
+      "Alberto Quiroga",
+      "Luis Ospina"
+    ],
+    "country": "Colombia"
+  }
+}

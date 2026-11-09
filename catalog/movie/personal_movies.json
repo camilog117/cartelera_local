@@ -75,6 +75,18 @@
         "Ciencia ficción",
         "Suspense"
       ]
+    },
+    {
+      "id": "tt0193438",
+      "type": "movie",
+      "name": "Pura sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/q0LB8qEcntweDmxlH07O9TwNXjP.jpg",
+      "releaseInfo": "1982",
+      "imdbRating": "7",
+      "genres": [
+        "Crimen",
+        "Terror"
+      ]
     }
   ]
 }
