@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "tt0782839",
+    "type": "movie",
+    "name": "Al final del espectro",
+    "poster": "https://image.tmdb.org/t/p/w500/aD26sbzNE1hfmyKpVBuW8hgLTVP.jpg",
+    "background": "https://image.tmdb.org/t/p/original/e54npVEP527WKximShqvX4Q804U.jpg",
+    "description": "Vega, una mujer que después de pasar por una experiencia traumática, comienza a sufrir agorafobia. Por este motivo se aleja de su trabajo y por recomendación de su padre se muda a un nuevo apartamento donde empieza a vivir como una ermitaña. Pero nunca pensó que este cambio radical de vida, la llevaría a una situación desesperada.",
+    "releaseInfo": "2006",
+    "imdbRating": "5.9",
+    "runtime": "92 min",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "cast": [
+      "Noëlle Schonwald",
+      "Julieth Restrepo",
+      "Silvia de Dios",
+      "Kepa Amuchastegui",
+      "Manuel José Chaves",
+      "Carlos Serrato",
+      "Juan Pablo Aristizábal",
+      "esteban duperly"
+    ],
+    "director": [
+      "Juan Felipe Orozco"
+    ],
+    "writer": [
+      "Juan Felipe Orozco",
+      "Carlos Esteban Orozco"
+    ],
+    "country": "Colombia"
+  }
+}

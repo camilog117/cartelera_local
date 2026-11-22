@@ -87,6 +87,18 @@
         "Crimen",
         "Terror"
       ]
+    },
+    {
+      "id": "tt0782839",
+      "type": "movie",
+      "name": "Al final del espectro",
+      "poster": "https://image.tmdb.org/t/p/w500/aD26sbzNE1hfmyKpVBuW8hgLTVP.jpg",
+      "releaseInfo": "2006",
+      "imdbRating": "5.9",
+      "genres": [
+        "Misterio",
+        "Terror"
+      ]
     }
   ]
 }
